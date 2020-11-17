@@ -1,2 +1,2 @@
-# OESP-Thoughts
+# OSEP-Thoughts
 My thoughts from going through the OSEP materials.
