@@ -6,3 +6,8 @@ and do some enum, the path is clear to domain admin. -- Completed
 ### Lab 2 ###
 
 Lab 2 is all about connecting the dots for yourself. The initial exploit and pivots don't try to hide. -- Completed
+
+
+### Lab 3 ###
+
+Lab 3 is out of my comfort zone. You are presented with a fairly straightforward path to the initial compromise on all three of the servers. Local.txt shouldn't take long. Proof.txt looks to be a lot more challenging.
