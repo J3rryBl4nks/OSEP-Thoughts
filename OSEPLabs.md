@@ -11,3 +11,7 @@ Lab 2 is all about connecting the dots for yourself. The initial exploit and piv
 ### Lab 3 ###
 
 Lab 3 is out of my comfort zone. You are presented with a fairly straightforward path to the initial compromise on all three of the servers. Local.txt shouldn't take long. Root access on this lab is a matter of doing enum and understanding the steps required.
+
+### Lab 4 ###
+
+Lab was was an exercise in combining the pieces of the puzzle into a workable exploit and pivots.
