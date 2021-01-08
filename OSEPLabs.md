@@ -1,3 +1,7 @@
-Having completed all labs I can say:
+The OSEP Challenge labs are scenario based labs that give you a simulated network to practice your newly-found skills in.
 
-The labs teach you a LOT of different things and put you in scenarios that will challenge you.
+Labs 1 - 3 are geared to teach you a specific exploit vector.
+Labs 4 - 6 are designed to simulate real networks and give you an opportunity to practice your enumeration skills to find your attack paths.
+
+
+The labs do NOT contain trolling or CTF type challenges.
